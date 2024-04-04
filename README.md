@@ -58,4 +58,4 @@ pip install tensorflow scikit-learn
 ```bash
 python script_name.py
 ```
-Replace `script_name.py` with the name of the script file you have saved in your project directory.
+Replace `Handling Imbalanced Text Classification Datasets.py` with the name of the script file you have saved in your project directory.
